@@ -1,3 +1,8 @@
+# Escola da Nuvem
+# Atividade Pratica 03
+# Editado por Telio Mauricio
+# Exercicio 03
+# Calculadora de DeIMC
 peso = float(input("Digite seu peso em kg (ex: 70.5): "))
 altura = float(input("Digite sua altura em metros (ex: 1.75): "))
 imc = peso / (altura ** 2)

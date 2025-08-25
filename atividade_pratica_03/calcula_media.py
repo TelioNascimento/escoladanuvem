@@ -1,3 +1,8 @@
+# Escola da Nuvem
+# Atividade Pratica 03
+# Editado por Telio Mauricio
+# Exercicio 07
+# Calculadora da Media
 n1, n2, n3, n4 = map(float, input().split())
 media = (n1 * 2 + n2 * 3 + n3 * 4 + n4 * 1) / 10
 

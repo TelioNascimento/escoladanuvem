@@ -1,3 +1,8 @@
+# Escola da Nuvem
+# Atividade Pratica 02
+# Editado por Telio Mauricio
+# Exercicio 02
+# Calculadora de Desconto
 produto = "Camiseta"
 preco_original = 50.00
 desconto_percentual = 20

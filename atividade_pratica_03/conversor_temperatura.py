@@ -1,3 +1,8 @@
+# Escola da Nuvem
+# Atividade Pratica 03
+# Editado por Telio Mauricio
+# Exercicio 04
+# Conversor de Temperatura
 temperatura = float(input("Digite a temperatura: "))
 unidade_origem = input("Unidade de origem (C, F ou K): ").upper()
 unidade_destino = input("Unidade para converter (C, F ou K): ").upper()

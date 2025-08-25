@@ -1,3 +1,8 @@
+# Escola da Nuvem
+# Atividade Pratica 03
+# Editado por Telio Mauricio
+# Exercicio 02
+# Calculadora de Idade
 idade = int(input("Digite sua idade: "))
 
 if idade < 0:

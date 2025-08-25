@@ -1,3 +1,8 @@
+# Escola da Nuvem
+# Atividade Pratica 01
+# Editado por Telio Mauricio
+# Exercicio 04
+# Calculadora de Preço Total
 nome_produto = "Cadeira Infantil"
 preco_unitario = 12.40
 quantidade = 3

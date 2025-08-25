@@ -1,3 +1,8 @@
+# Escola da Nuvem
+# Atividade Pratica 02
+# Editado por Telio Mauricio
+# Exercicio 01
+# Conversor de moedas
 valor_reais = 100.00
 taxa_dolar = 5.60
 taxa_euro = 6.60
