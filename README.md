@@ -1,1 +1,1 @@
-# escoladanuvem
+# Atividades Praticas do Curso de IA Escola da Nuvem
